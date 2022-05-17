@@ -1,4 +1,6 @@
 var firebaseConfig = {
+
+      
       apiKey: "AIzaSyBZfmEkwDlwbiZAhM4OJU9fapFEn9-K4vQ",
       authDomain: "kwitter-d5af6.firebaseapp.com",
       databaseURL: "https://kwitter-d5af6-default-rtdb.firebaseio.com",
